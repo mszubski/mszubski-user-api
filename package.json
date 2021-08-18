@@ -1,0 +1,18 @@
+{
+  "name": "mszubski-user-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Szubski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.10.7",
+    "axios": "^0.20.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
